@@ -1,0 +1,33 @@
+{
+    "solpunk":{
+        "cheap":"https://discord.com/api/webhooks/873509481848373318/ncs-IweeXt-caBpgLnJh2P9XxLJ2_jS6INMr1Gv4FhZG-ipcCQtvmQ9cwMR2T-JiNWjg",
+        "floor":"https://discord.com/api/webhooks/873509694541557810/gjhF50GLoCUpZfVTEziSwBhxzAEnwGwBfaXzych1sS9G86mnXumgJp43CO05hfYK_0Xl",
+        "error":"https://discord.com/api/webhooks/873509861751685190/lTCAMt9GO0Bw_P4Qd06K3X2cupTWrR7WgQbUKR0SCXw2de92wv6AXKo1L8_ugkh_ptxm",
+        "sales":"https://discord.com/api/webhooks/873520093584298044/_0OAVciRgyG8SAjHzyPoC66m_3qTuTd0jnTdSWsZXCPLmbUxNnwrynPxOBNLmd1iaSgi"
+    },
+    "ssbsolpunk":{
+        "cheap":"https://discord.com/api/webhooks/875629584480075837/zbixZr-20sXFykO0I_X5_tYNiOVks3djBp3rjx6sdOYZpEEs7eC4aT8sWsNUIiH8HEgY",
+        "floor":"https://discord.com/api/webhooks/875629804639109120/_Ju8YnOWpTOL2hAZ92i7O0LKCp8Q4v4ocGEhDZ6mH8mxgIdFtKepTKD9ri5udUDV2QNa",
+        "error":"https://discord.com/api/webhooks/875630062823686174/cuv_8YYRXz-QPf9oym4NlHKlsUSULTdx3sciNCOwwoD4jrDrsGgVxDiTVlb2spE_xXmS",
+        "sales":"https://discord.com/api/webhooks/875630337970020432/tKYkFFkrsqrZ4K4uDnLGEuYO2JLQVOYhpRNMRyf9IQVvtst9IhnXwPbegNX6FKT-xjoi"
+    },
+    "apeshit":{
+        "cheap":"https://discord.com/api/webhooks/873842216441892904/TMnFHF8rBDqdh_VzJm_WvnfS8Q1N5JoHYRwMz5lWDYuaNY8cKecFt0UiTAzfzzqXRGym",
+        "floor":"https://discord.com/api/webhooks/873842603479666728/q8-H5aF0DSEz0Enu8kKuRETagPSvBvSZS9j_DRSDu_LM6TcPdsrsEFbc0n0inf2wCCgU",
+        "error":"https://discord.com/api/webhooks/873842915665920040/Ujrk4RSHka-e7m9dkFXP_htLFVcvJucik3b1wC9MEGT1TfTcplu7j0QymZ5hcKReQlDO",
+        "sales":"https://discord.com/api/webhooks/873843130980519937/7q01H7LFcfARnNLc5pPbQJ_8OwYzgHpFXIEsRlPX2JQR6nh7fB2uk8zZi_XVA_OLoaDs"
+    },
+    "degenape":{
+        "cheap":"https://discord.com/api/webhooks/876384684232298526/tU4aPfzPWls795926EMCnCuWyDUk7JJW5DHcGvTK4hZZwA1uybNAJ4SjOkdxhP_uQfkW",
+        "floor":"https://discord.com/api/webhooks/876384945365454868/kDdIYtsHgu9TDnPYH4QUUYrbAd6BRFiWxmEDZH8kLKF36x3evGSmY_c0onnzNilZfVYQ",
+        "error":"https://discord.com/api/webhooks/876385190287646730/ci4Euu5eeP6yo2BWjb9zHtfEx9LW_qtV54icgsnQJdIEKQs1zGtm1moWXmer_J2LVH7L",
+        "sales":"https://discord.com/api/webhooks/876385423067344927/_fCp6imKQAxl7yMWGxJAuDK1ESsMue8sdq5rbG67gZCmkza_Ahlt4XQwXzH90sjHD6mA"
+    },
+    "pixelDudes":{
+        "cheap":"https://discord.com/api/webhooks/877448564165455872/uPClXloABsot7jE1x9xXCQJXtTB0amADbrhVVqLgbUyT_urIyGmlIhfCCr4BmV49Lm17",
+        "floor":"https://discord.com/api/webhooks/877449217428295761/5IJoRoGqR9xbpzIE-sOUc2B9lvFewYoFftJoYtjK5yKSBtGbqt6X_PIAZQIYBr-4ClVk",
+        "error":"https://discord.com/api/webhooks/877449438543609897/BuarBB1ecYrihgCX03pQFPJOIb6kFBcexsdNeRiNkKrk2xYInXCBZNb07UqVHVyBar5t",
+        "sales":"https://discord.com/api/webhooks/877449637429121054/FzBGRDqr_9B5qmk7ofpt_XoxuPHiq82jWWF_OZaCNJcWnNT01tXkE8T7ODOKguefVMTu"
+    }
+
+}
